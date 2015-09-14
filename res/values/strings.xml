@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TheProject</string>
+    <string name="txtOpenCamera">Take Photo</string>
+    <string name="record">Record</string>
+    <string name="txtStop">Stop</string>
+    <string name="playRecord">Play Sound</string>
+    <string name="pause">Pause</string>
+    <string name="stopPlaying">Stop</string>
+    <string name="backToMain">Back</string>
+    <string name="Play">Play</string>
+    <string name="saveImage">Save Image</string>
+    <string name="empty">No record has been saved yet...</string>
+    <string name="aboutText"> This app developed by SIT207 Android Programming students:</string>
+    <string name="develop1">Peng Gao - 212409943</string>
+    <string name="develop2">Runli Song - 212535404</string>
+
+</resources>
